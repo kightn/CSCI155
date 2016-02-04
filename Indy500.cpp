@@ -18,7 +18,7 @@ mps = (atime + (btime - atime) + (ctime - btime) + (dtime - ctime) / 10);
   total = (mps / 50) ;
   mph = (total * 60) * 60;
 
-cout << "Estimated total time: " << total << " hours" << endl;
+cout << "Estimated total race time: " << total << " hours" << endl;
   
   if( mph >= 225.5){
     cout << "Estimated Placement: Top 5" << endl;
