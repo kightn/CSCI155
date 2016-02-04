@@ -21,4 +21,4 @@ pay = hours * rate;
 // Display the pay. 
 cout << "You have earned $" << pay << endl; 
 return 0; 
-}
+}# csci155 payroll
